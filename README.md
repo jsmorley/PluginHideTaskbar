@@ -1,1 +1,0 @@
-# HideTaskbar plugin for Rainmeter
